@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)]
+![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 
 <h1 align="center">Hi 👋, I'm Moeez</h1>
 <h3 align="center">I am a professional Web Developer and programmer of other languages like C++ ,Java and python</h3>
