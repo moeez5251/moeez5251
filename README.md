@@ -1,9 +1,15 @@
-![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="cool gif" width="600"/>
+</p>
+
+
 
 # 💫 About Me:
+
+<img align="right" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300" />
+
 Hi there! I'm **Xheikh Moeez**, a passionate developer and tech enthusiast who loves building innovative solutions and exploring new technologies.
 
-- 🔭 Currently working on: E-commerce website  
 - 🌱 Currently learning: TypeScript & AI/ML  
 - 💻 Skills: JavaScript, React, Python, Node.js, TypeScript, HTML, CSS  
 - ✨ Interests: Full-stack development, open-source, game development  
@@ -11,6 +17,9 @@ Hi there! I'm **Xheikh Moeez**, a passionate developer and tech enthusiast who l
 - 🌍 Portfolio: [moeez5251.netlify.app](https://moeez5251.netlify.app/)  
 - 💬 Ask me about: Web dev, JS frameworks, building scalable apps, AI/ML journey  
 - 🎮 Fun fact: I enjoy gaming and geeking out over the latest in tech!
+
+
+
 
 ---
 
@@ -46,11 +55,13 @@ Hi there! I'm **Xheikh Moeez**, a passionate developer and tech enthusiast who l
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moeez5251&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=moeez5251&theme=chartreuse-dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez5251&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![My Awesome Stats](https://gh-readme-profile.vercel.app/api?username=moeez5251&theme=gruvbox&hide=issues&hide_stroke=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=moeez5251&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez5251&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=moeez5251&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>
 
