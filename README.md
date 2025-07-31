@@ -12,13 +12,13 @@ Hi there! I'm **Xheikh Moeez**, a passionate developer and tech enthusiast who l
 
 ---
 
-## 🌐 Connect with Me:
+## Connect with Me:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moeez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skh_moeez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeez-sheikh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moeez5251)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/moeez) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skh_moeez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moeez-sheikh) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moeez5251)
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ### Languages:
 
@@ -46,7 +46,9 @@ Hi there! I'm **Xheikh Moeez**, a passionate developer and tech enthusiast who l
 
 ### Others:
 
-## 📊 GitHub Stats:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## GitHub Stats:
 
 ![moeez5251's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez5251&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   ![moeez5251's Stats](https://github-readme-stats.vercel.app/api?username=moeez5251&theme=algolia&show_icons=true&hide_border=false&count_private=true) <br/>
 ![moeez5251's Streak](https://nirzak-streak-stats.vercel.app/?user=moeez5251&theme=algolia&hide_border=false) 
