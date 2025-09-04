@@ -52,7 +52,8 @@ Hi there! I'm **Xheikh Moeez**, a passionate developer and tech enthusiast who l
 
 ![moeez5251's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez5251&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   ![moeez5251's Stats](https://github-readme-stats.vercel.app/api?username=moeez5251&theme=algolia&show_icons=true&hide_border=false&count_private=true) <br/>
 ![moeez5251's Streak](https://nirzak-streak-stats.vercel.app/?user=moeez5251&theme=algolia&hide_border=false) 
-
+<br>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=moeez5251&theme=algolia&title=Stars,Repositories,Commits,Experience,PullRequest,Followers&no-frame=true&no-bg=true)
 
 ---
 
