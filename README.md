@@ -1,13 +1,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
 
-Hi there! I'm **Xheikh Moeez**, a passionate developer and tech enthusiast who loves building innovative solutions and exploring new technologies.
+Hi there! I'm **Xheikh Moeez**, a passionate web developer and tech enthusiast who loves building innovative solutions and exploring new technologies.
 
-- 🌱 Currently learning: TypeScript & AI/ML
 - 💻 Skills: JavaScript, React, Python, Node.js, TypeScript, HTML, CSS
-- ✨ Interests: Full-stack development, open-source, game development
+- ✨ Interests: Full-stack development, open-source
 - 🛠️ Tools I love: VS Code, Git, TailwindCSS, Docker
-- 🌍 Portfolio: [moeez5251.netlify.app](https://moeez5251.netlify.app/)
-- 💬 Ask me about: Web dev, JS frameworks, building scalable apps, AI/ML journey
+- 🌍 Portfolio: [moeez5251.netlify.app](https://moeez5251.netlify.app)
+- 💬 Ask me about: Web dev, JS frameworks, building scalable apps
 - 🎮 Fun fact: I enjoy gaming and geeking out over the latest in tech!
 
 ---
