@@ -2,11 +2,15 @@
 
 # Hi there! I'm **Xheikh Moeez** 👋
 A passionate full-stack web developer and tech enthusiast building innovative solutions and exploring modern technologies.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=moeez5251&style=flat-square" alt="Profile Views" align="center" />
+</div>
+<br>
 
 - 💻 **Skills:** JavaScript, TypeScript, React, Next.js, Node.js, Python, HTML, CSS  
 - ✨ **Interests:** Full-stack development, open-source contributions, scalable apps  
 - 🛠️ **Tools I Love:** VS Code, Git, TailwindCSS, Docker, Postman  
-- 🌍 **Portfolio:** [Portfolio](https://moeez5251.github.io/Portfolio)  
+- 🌍 **Portfolio:** [https://moeez5251.github.io/Portfolio](https://moeez5251.github.io/Portfolio)  
 - 💬 **Ask Me About:** Web development, JS frameworks, building high-performance apps  
 - 🎮 **Fun Fact:** I enjoy gaming and geeking out over the latest in tech  
 
@@ -66,18 +70,26 @@ A passionate full-stack web developer and tech enthusiast building innovative so
 ### Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api/top-langs/?username=moeez5251&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez5251&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=moeez5251&theme=algolia&show_icons=true&hide_border=false&count_private=true)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=moeez5251&theme=algolia&hide_border=false)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=moeez5251&theme=algolia&title=Stars,Repositories,Commits,Experience,PullRequest,Followers&no-frame=true&no-bg=true)
+<p align="center">
+  <img src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api?username=moeez5251&theme=algolia&show_icons=true&hide_border=false&count_private=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=moeez5251&theme=algolia&hide_border=false" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=moeez5251&theme=algolia&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
 
 ---
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=moeez5251&style=flat-square" alt="Profile Views" align="center" />
-</div>
