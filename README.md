@@ -10,7 +10,7 @@ A passionate full-stack web developer and tech enthusiast building innovative so
 - 💻 **Skills:** JavaScript, TypeScript, React, Next.js, Node.js, Python, HTML, CSS  
 - ✨ **Interests:** Full-stack development, open-source contributions, scalable apps  
 - 🛠️ **Tools I Love:** VS Code, Git, TailwindCSS, Docker, Postman  
-- 🌍 **Portfolio:** [https://moeez5251.github.io/Portfolio](https://moeez5251.github.io/Portfolio)  
+- 🌍 **Portfolio:** [https://moeez5251.netlify.app](https://moeez5251.netlify.app)  
 - 💬 **Ask Me About:** Web development, JS frameworks, building high-performance apps  
 - 🎮 **Fun Fact:** I enjoy gaming and geeking out over the latest in tech  
 
