@@ -66,7 +66,7 @@ A passionate full-stack web developer and tech enthusiast building innovative so
 ### Hosting:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,github,render,heroku" />
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,github,heroku" />
 </p>
 
 ### Others:
