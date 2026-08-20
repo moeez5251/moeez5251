@@ -94,7 +94,7 @@ A passionate full-stack web developer and tech enthusiast building innovative so
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeez5251&theme=algolia&hide_border=false" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=moeez5251&theme=algolia&hide_border=false" alt="Streak" />
 </p>
 
 <p align="center">
